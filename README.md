@@ -1,32 +1,35 @@
 # Hi 👋, I'm Sanjana
 
-<p align="left">
+<p align="center">
   <b>A passionate Full Stack Developer & DevOps Engineer 🚀</b>
 </p>
 
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+DevOps+Engineer;I+Bridge+Code+and+Infrastructure;I+Build+Scalable+EKS+%26+React+Apps;Automating+Pipelines+from+Commit+to+Cloud!+%E2%9A%A1" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://github.com/sanjanamahajan2001-sys">
     <img src="https://komarev.com/ghpvc/?username=sanjanamahajan2001-sys&color=39FF14&style=flat-square&label=Profile+Views&base=700" alt="Profile Views" />
   </a>
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
-      <ul>
-        <li>🏗️ I'm currently designing high-performance web applications and automating cloud platforms.</li>
-        <li>💻 I specialize in bridging the gap between clean frontend/backend code and robust production infrastructure.</li>
-        <li>⚙️ Ask me about <b>React, Next.js, Django, AWS EKS, Docker, & Terraform</b>.</li>
-        <li>📂 My projects are featured in my pinned repositories right below!</li>
-        <li>📧 How to reach me: <a href="mailto:sanjanamaahi2001@gmail.com"><b>sanjanamaahi2001@gmail.com</b></a></li>
-        <li>⚡ Fun fact: I write code that builds code that deploys code. <b>Inception-style!</b> ☕</li>
-      </ul>
-    </td>
-    <td valign="top" width="45%" align="center">
-      <img src="https://github.com/OtavioSerafim/OtavioSerafim/raw/master/assets/developer.gif" width="320" alt="Developer GIF" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/build-deploy.png" width="650" alt="Build & Deploy Banner" />
+</p>
+
+---
+
+### ⚡ The "Build & Deploy" Catalyst
+
+I bridge the gap between **high-performance application development** and **bulletproof cloud infrastructure**. I don't just write code—I design it to be containerized, automated, autoscaled, and highly resilient in production.
+
+- 🏗️ **Currently:** Designing high-performance web applications and automating cloud platforms.
+- 💻 **Core focus:** Bridging the gap between clean frontend/backend code and robust production infrastructure.
+- ⚙️ **Ask me about:** React, Next.js, Django, AWS EKS, Docker, & Terraform.
+- 📂 **Featured Work:** All my major projects are highlighted in my pinned repositories right below!
+- 📧 **How to reach me:** <a href="mailto:sanjanamaahi2001@gmail.com"><b>sanjanamaahi2001@gmail.com</b></a>
+- ⚡ **Fun fact:** I write code that builds code that deploys code. *Inception-style!* ☕
 
 ---
 
@@ -104,10 +107,10 @@
 ### GitHub Analytics:
 <p align="center">
   <a href="https://github.com/sanjanamahajan2001-sys">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjanamahajan2001-sys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Sanjana's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sanjanamahajan2001-sys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Sanjana's GitHub Stats" />
   </a>
   <a href="https://github.com/sanjanamahajan2001-sys">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanamahajan2001-sys&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanamahajan2001-sys&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
   </a>
 </p>
 
