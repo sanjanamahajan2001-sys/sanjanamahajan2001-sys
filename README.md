@@ -1,35 +1,19 @@
-# Hi 👋, I'm Sanjana
+# Hi, I'm Sanjana Mahajan 👋
 
-<p align="center">
-  <b>A passionate Full Stack Developer & DevOps Engineer 🚀</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+DevOps+Engineer;I+Bridge+Code+and+Infrastructure;I+Build+Scalable+EKS+%26+React+Apps;Automating+Pipelines+from+Commit+to+Cloud!+%E2%9A%A1" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/sanjanamahajan2001-sys">
-    <img src="https://komarev.com/ghpvc/?username=sanjanamahajan2001-sys&color=39FF14&style=flat-square&label=Profile+Views&base=700" alt="Profile Views" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="assets/build-deploy.png" width="650" alt="Build & Deploy Banner" />
-</p>
+### Cloud-Native Full Stack & DevOps Engineer
+Building scalable backend systems, Kubernetes platforms, and real-time distributed applications.
 
 ---
 
-### ⚡ The "Build & Deploy" Catalyst
+### ⚙️ The "Build & Deploy" Catalyst
 
-I bridge the gap between **high-performance application development** and **bulletproof cloud infrastructure**. I don't just write code—I design it to be containerized, automated, autoscaled, and highly resilient in production.
+I bridge the gap between **high-performance application development** and **bulletproof cloud infrastructure**. I design systems to be containerized, automated, autoscaled, and highly resilient in production.
 
-- 🏗️ **Currently:** Designing high-performance web applications and automating cloud platforms.
-- 💻 **Core focus:** Bridging the gap between clean frontend/backend code and robust production infrastructure.
-- ⚙️ **Ask me about:** React, Next.js, Django, AWS EKS, Docker, & Terraform.
-- 📂 **Featured Work:** All my major projects are highlighted in my pinned repositories right below!
-- 📧 **How to reach me:** <a href="mailto:sanjanamaahi2001@gmail.com"><b>sanjanamaahi2001@gmail.com</b></a>
-- ⚡ **Fun fact:** I write code that builds code that deploys code. *Inception-style!* ☕
+- **Systems Focus**: Developing low-latency FastAPI/Go microservices and setting up distributed Redis session locking.
+- **Platform Engineering**: Managing AWS EKS (Kubernetes) clusters, modular Terraform configurations, and OPA policy validations.
+- **Continuous Integration**: Writing secure GitHub Actions pipelines, Docker layer caches, and automated release rollbacks.
+- **Featured Work**: Major projects are pinned directly below and showcased on my [Interactive Portfolio](https://personal-portfolio-gold-phi-44.vercel.app).
+- **Contact**: Reach me securely at [sanjanamaahi2001@gmail.com](mailto:sanjanamaahi2001@gmail.com).
 
 ---
 
