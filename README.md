@@ -56,6 +56,8 @@ I build scalable backend applications and reliable cloud-native infrastructure w
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <!-- GitHub Actions -->
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <!-- Jenkins -->
+  <img src="https://img.shields.io/badge/Jenkins-D33833?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
 ---
